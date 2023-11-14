@@ -1,0 +1,32 @@
+body{
+    background-color: #E0D7E2;
+    padding-left: 2vw;
+    padding-top: 1vw;
+    overflow-x: hidden;
+}
+.title{
+    font-family: 'Montserrat Hairline', sans-serif;
+    font-size: 7vw;
+    margin-top: 10vw;
+    margin-left: 3vw;
+    z-index: 1;
+    margin-bottom: 1rem
+}
+
+.geral2 *{
+    z-index: 0;
+    height: 400px;
+    width: 100%;
+    background-color: #E0D7E2;
+}
+
+.subtitle{
+    font-family: 'Montserrat Hairline', sans-serif;
+    font-size: 1vw;
+}
+.areas button{
+    border-radius: 1vw;
+    border-color: transparent;
+    margin-left: 3vw;
+    background-color: transparent;
+}
