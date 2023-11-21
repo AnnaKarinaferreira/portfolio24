@@ -1,11 +1,13 @@
 body{
-    background-color: #E0D7E2;
+    background-color: #ffffff;
     padding-left: 2vw;
     padding-top: 1vw;
     overflow-x: hidden;
 }
-.title{
-    font-family: 'Montserrat Hairline', sans-serif;
+
+.title1{
+    font-family: 'HelveticaforTarget-Bold', sans-serif;
+    font-family: 'HelveticaforTarget', sans-serif;
     font-size: 7vw;
     margin-top: 10vw;
     margin-left: 3vw;
@@ -13,17 +15,32 @@ body{
     margin-bottom: 1rem
 }
 
+.title2{
+    font-family: 'HelveticaforTarget-Bold', sans-serif;
+    font-family: 'HelveticaforTarget', sans-serif;
+    font-size: 7vw;
+    margin-top: 3vw;
+    margin-left: 3vw;
+    z-index: 1;
+    margin-bottom: 1rem
+}
+
 .geral2 *{
     z-index: 0;
-    height: 400px;
-    width: 100%;
-    background-color: #E0D7E2;
+    height: 300px;
+    width: 200%;
+    background-color: #7e7780;
 }
 
 .subtitle{
-    font-family: 'Montserrat Hairline', sans-serif;
+    font-family: 'HelveticaforTarget-Bold', sans-serif;
+    font-family: 'HelveticaforTarget', sans-serif;
+    margin-top: 5vw;
+    margin-left: 3vw;
     font-size: 1vw;
+    color: rgb(247, 124, 236);
 }
+
 .areas button{
     border-radius: 1vw;
     border-color: transparent;
